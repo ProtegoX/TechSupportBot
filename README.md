@@ -7,9 +7,9 @@
 4. Intuitive and attractive interface for users.
 5. There is documentation on how to use the bot for administrators.
 
-## tools
+## Tools
 
 Python is the primary language of this project.
 UI is based on pyTelegramBotApi.
 SQLite for database operations.
-A python NLP library for language processing. 
+NLTK for language processing. 
